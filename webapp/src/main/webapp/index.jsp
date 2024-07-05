@@ -29,7 +29,7 @@ input[type=text], input[type=password] {
 }
 
 input[type=text]:focus, input[type=password]:focus {
-  background-color: #ddd;
+  background-color: #ddd;codw
   outline: none;
 }
 
@@ -72,7 +72,7 @@ a {
 <form action="/action_page.php">
   <div class="container">
     <h1>Register</h1>
-    <p>Please fill in this form to create an account .</p>
+    <p>Please and pls fill in this form to create an account .</p>
     <hr>
 
     <label for="email"><b>Email</b></label>
